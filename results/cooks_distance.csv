@@ -1,0 +1,38 @@
+"station","cooks_distance","influential","threshold"
+"Cene",0.0405,FALSE,0.1379
+"Tavernola Bergamasca",0.191,TRUE,0.1379
+"Ranzanico",0.0015,FALSE,0.1379
+"Luino",0.107,FALSE,0.1379
+"Montevecchia",0.0102,FALSE,0.1379
+"Osio Sotto",0.0421,FALSE,0.1379
+"Bergamo",0.0024,FALSE,0.1379
+"Abbadia Lariana",0.0151,FALSE,0.1379
+"Caslino d'Erba",0.0033,FALSE,0.1379
+"Porlezza",0.003,FALSE,0.1379
+"Varese",0.0694,FALSE,0.1379
+"Castronno",0.0538,FALSE,0.1379
+"Laveno Mombello",0.0358,FALSE,0.1379
+"Mariano Comense",0.0031,FALSE,0.1379
+"Sarnico",0.0396,FALSE,0.1379
+"Cuveglio",4e-04,FALSE,0.1379
+"Mornico al Serio",0.0066,FALSE,0.1379
+"Lurago Marinone",0.0016,FALSE,0.1379
+"Cantù Asnago",1e-04,FALSE,0.1379
+"Rho",0.0129,FALSE,0.1379
+"Corsico",0.0586,FALSE,0.1379
+"Ferno",0.0152,FALSE,0.1379
+"Tremezzo",0.3374,TRUE,0.1379
+"Olgiate Comasco",0.0207,FALSE,0.1379
+"Varano Borghi",0.0035,FALSE,0.1379
+"Porto Ceresio",0.0179,FALSE,0.1379
+"Saronno",1e-04,FALSE,0.1379
+"Lambrugo",0.028,FALSE,0.1379
+"Como",0.0171,FALSE,0.1379
+"Vertemate con Minoprio",0.2028,TRUE,0.1379
+"Lavena Ponte Tresa",0.0527,FALSE,0.1379
+"Mozzanica",0.0263,FALSE,0.1379
+"Busto Arsizio",0.0011,FALSE,0.1379
+"Cavaria con Premezzo",0.0111,FALSE,0.1379
+"Milano Lambrate",0.0053,FALSE,0.1379
+"Cinisello Balsamo",0.013,FALSE,0.1379
+"Arconate",0.0728,FALSE,0.1379

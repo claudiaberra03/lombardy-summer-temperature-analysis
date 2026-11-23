@@ -1,0 +1,2 @@
+Latitude: slope = -3.437 °C per degree (p = 7.44e-03), R^2 = 0.203, mean CI width = 1.10 °C, mean PI width = 4.47 °C
+Longitude: slope = -1.242 °C per degree (p = 1.69e-02), R^2 = 0.166, mean CI width = 1.09 °C, mean PI width = 4.56 °C

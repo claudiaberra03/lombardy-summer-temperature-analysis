@@ -1,0 +1,3 @@
+Stations: 37
+Elevation class: low 27, high 10
+Lakeside: no 25, yes 12

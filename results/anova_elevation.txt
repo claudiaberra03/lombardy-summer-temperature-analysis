@@ -1,0 +1,7 @@
+Stations: 34
+  low: n = 26, mean = 29.39 °C, sd = 1.00 °C, Shapiro-Wilk p = 0.882
+  high: n = 8, mean = 27.90 °C, sd = 0.99 °C, Shapiro-Wilk p = 0.680
+Bartlett test: K^2 = 0.000, p = 0.985
+Levene test: F = 0.008, p = 0.929
+ANOVA: F(1, 32) = 13.55, p = 8.50e-04
+Difference in means (low - high): 1.48 °C

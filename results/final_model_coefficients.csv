@@ -1,0 +1,5 @@
+"term","estimate","std_error","t_value","p_value"
+"(Intercept)",211.65,45.53,4.648,6.28e-05
+"elevation_classhigh",-0.90809,0.3407,-2.665,0.0123
+"latitude",-3.7045,0.9693,-3.822,0.000621
+"longitude",-1.4196,0.3831,-3.706,0.000852

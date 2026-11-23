@@ -1,0 +1,18 @@
+Initial model (37 stations)
+  R^2 = 0.582, adjusted R^2 = 0.481
+Influential stations removed (Cook's distance > 0.138): Tavernola Bergamasca, Tremezzo, Vertemate con Minoprio
+
+Final model: tmax_summer ~ elevation_class + latitude + longitude
+  stations = 34, residual df = 30
+  R^2 = 0.591, adjusted R^2 = 0.550
+  residual standard error = 0.785 °C
+  F = 14.44 on 3 and 30 df, p = 5.30e-06
+  max VIF = 1.19
+  Shapiro-Wilk on residuals: W = 0.969, p = 0.438
+
+Coefficients:
+                    Estimate Std. Error t value  Pr(>|t|)
+(Intercept)         211.6000    45.5300   4.648 0.0000628
+elevation_classhigh  -0.9081     0.3407  -2.665 0.0122700
+latitude             -3.7050     0.9693  -3.822 0.0006214
+longitude            -1.4200     0.3831  -3.706 0.0008517

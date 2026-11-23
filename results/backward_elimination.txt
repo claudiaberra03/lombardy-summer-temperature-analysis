@@ -1,0 +1,10 @@
+Candidates: precip_summer (p = 0.854), lakeside (p = 0.376), elevation_class:latitude (p = 0.416), elevation_class:longitude (p = 0.258)
+  removed: precip_summer
+Candidates: lakeside (p = 0.368), elevation_class:latitude (p = 0.284), elevation_class:longitude (p = 0.254)
+  removed: lakeside
+Candidates: elevation_class:latitude (p = 0.219), elevation_class:longitude (p = 0.334)
+  removed: elevation_class:longitude
+Candidates: longitude (p = 0.001), elevation_class:latitude (p = 0.203)
+  removed: elevation_class:latitude
+Candidates: elevation_class (p = 0.012), latitude (p = 0.001), longitude (p = 0.001)
+Selected model: tmax_summer ~ elevation_class + latitude + longitude
